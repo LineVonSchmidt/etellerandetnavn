@@ -1,6 +1,6 @@
 # etellerandetnavn
 
 
-+list
-+list
-+list
++ list
++ list
++ list
